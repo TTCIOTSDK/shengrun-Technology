@@ -1,0 +1,23 @@
+Product Model：HY-40R204S1C
+Size: 11.5*9.0*2.0mm
+Modulation Mode：GFSK
+Antenna Type： Ceramic antennas
+Bluetooth BLE 5.0 single mode compliant 
+Transmission Distance：60M（The actual distance is subject to the test environment）
+Integrated Bluetooth low energy stack 
+GAP, GATT, L2CAP, SMP Bluetooth low energy profiles 
+Compliance: BQB BLE5.0, FCC, IC(Canada), CE ETSI RED…etc. worldwide RF Regulations. 
+Transmit power :-21dBm~+5dBm typical
+Receiver sensitivity: -97dBm typical 
+In-System-Programmable Flash 128KB SRAM 8KB
+10 programmable GPIO
+Programmable ARM Cortex-M3 processor for embedding full applications 
+Low current consumption :Shutdown. No clocks running, no retention: 150nA(Typical)
+
+HY-40R204S1C integrates all features required for a Bluetooth Low power aplication ，which is a highly integrated Bluetooth 5.0 module targeted for low power Smart Devices and loT applications. 
+HY-40R204SICC also provides 10 programmable GPIO for low power product applications.
+HY-40R204S1C offers all Bluetooth low energy features: radio, stack, profiles and application space for customer applications. The module also provides flexible hardware interfaces to connect sensors. 
+HY-40R204S1C can be powered directly with a standard 3V coin cell batteries or pair of AAA batteries. 
+In lowest power shutdown mode it consumes only 0.15uA and will wake up in few microseconds. 
+HY-40R204S1C transmission distance of 60meter or more. (At face to face, free space, 1.2 Meter high from Ground for testing).
+Bluetooth IC：TTC2640R2 4*4*0.9mm 32pin IC,Used TI CC2640R2 die chip

@@ -1,0 +1,27 @@
+This solution is suitable for AEC-100 Automotive front mounting specifications
+Bluetooth IC selection：CC2640R2FTWRGZRQ1 QFN48 7*7 IC
+Modulation mode:GFSK
+Bluetooth module size: 35.0*26.2*4.2mm
+Frequency range: 2402~2480MHZ (2.4G ISM band)
+Communication interface: LIN
+IC RF TX power range can be set by software programming: -21~ +5 dB
+Frequency offset value: RF ± 60ppm, MCU clock 32.768KHz ± 350ppm (using crystal mode)
+Assembly features: waterproof structure
+Supply voltage: 10V~26V DC
+Bluetooth protocol stack: BLE 4.2, support for upgrading to 5.0
+Bluetooth chip: CC2640R2FQ1 (Vechile grade)
+Transmitting power: -21dBm~+5dBm
+Receive sensitivity: -97dBm
+Standby power consumption: 3.6uA (CacheRTC operation and RAM hold)
+Working temperature: -40 ° C ~ +105 ° C
+
+The keyless entry and start system, referred to as the PEPS system, uses advanced radio frequency technology to unlock the Automotive 
+door and enter the vechile without the need to operate the car's remote control key. Under the existing technical conditions, PEPS 
+has more intelligent access control management and higher anti-theft performance, and has gradually become the mainstream of automotive 
+electronic anti-theft system applications. However, with the vigorous promotion and development of the new energy automobile industry in 
+recent years, the Automotive networking process has been accelerating, and more and more IoT innovation technologies have been used in 
+Vechiles, People are constantly proposing new conveniences for traveling. The demand not only realizes the interconnection and mapping 
+between the Vechile and the mobile phone, but also the unlocking and starting of the car, and hopes to complete it with the mobile phone.
+In addition, the driver's license and the driving license are electronically trended, and the car can be started by simply carrying the 
+mobile phone.
+

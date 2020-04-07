@@ -1,0 +1,54 @@
+Product Model：HY-40Q101CC
+
+Size: 25.16*15.22*2.6mm（with shield case）
+
+Modulation Mode：GFSK
+
+Bluetooth v4.2 and v.5.0 single mode hardware compliant 
+
+Antenna Type：Ceramic Antennas
+
+Qualified for Automotive Applications
+
+AEC-Q100 Qualified With the Following Results:
+
+     Device Temperature Grade 2: –40°C to +105°C
+
+     Ambient Operating Temperature Range
+
+     Device HBM ESD Classification Level 2
+
+     Device CDM ESD Classification Level C3
+
+ Integrated Bluetooth low energy stack 
+
+GAP, GATT, L2CAP, SMP Bluetooth low energy profiles 
+
+Compliance Bluetooth BQB BLE 4.2 and 5.0, And Compliance worldwide RF Regulations. Example: China 3C, Europe CE ETSI RED, America FCC, Canada IC, Japan TELEC, Korea KC…etc. 
+
+IC Transmit power :+5 dBm typical 
+
+IC Receiver sensitivity: -97dBm typical 
+
+Ultra low current consumption : Standy by mode : 3.6uA ( with Cache RTC, CPU, RAM and partial register retention). 
+
+Shutdown mode:. No clocks running, no retention: 150 nA ( Typical) 
+
+Programmable ARM Cortex-M3 processor for embedding full applications
+
+HY-40Q101 Bluetooth low energy single mode module is for AEC-Q100 Qualified Automotive 
+
+Applications , Automotive Device Specification Temperature Grade 2: ( –40°C to +105°C), 
+
+HY-40Q101 is a single mode device, targeted for low power energy sensors and accessories. 
+
+HY-40Q101 offers all Bluetooth low energy features: radio, stack, profiles and application space for automotive applications. The module also provides flexible hardware interfaces to connect sensors. 
+
+HY-40Q101 can be powered directly with a standard 3V coin cell batteries or pair of AAA batteries. 
+
+in lowest power shutdown mode it consumes only 0.15uA and will wake up in few microseconds. 
+
+HY-40Q101 transmission distance of 80 meter or more. (At face to face, free space, 1.2 Meter high from Ground for testing, depend on Antenna gain & Antenna efficiency ). 
+
+Bluetooth IC：TI CC2640R2F-Q1 7*7*1.0mm 48pin IC
+
